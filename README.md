@@ -1,7 +1,7 @@
 # Brandon Muchenje
 **AI Governance and Risk Specialist**
 
-brandonmuchenje01@gmail.com | Johannesburg, South Africa
+brandonmuchenje01@gmail.com
 
 ---
 
