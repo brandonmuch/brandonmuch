@@ -7,13 +7,13 @@ brandonmuchenje01@gmail.com | Johannesburg, South Africa | Open to relocation: L
 
 ## About
 
-Six years in Pan-African media and entertainment operations — leading cross-border
+I have experience in Pan-African media and entertainment operations, leading cross-border
 data governance, information security, and stakeholder reporting across 23 African
 markets for MultiChoice and Showmax.
 
 Currently completing a Postgraduate Diploma in Risk Management at UNISA covering
 credit risk, operational risk, market risk, risk financing, and GRC. Active
-certifications in the EU AI Act, NIST AI RMF, and ISO/IEC 42001.
+certifications that focus on the EU AI Act, NIST AI RMF, and ISO/IEC 42001.
 
 BCom Law (Cum Laude), Monash University South Africa.
 
@@ -35,10 +35,10 @@ BCom Law (Cum Laude), Monash University South Africa.
 
 | Repository | Description | Tools |
 |---|---|---|
-| [bbnaija-s10-information-governance](https://github.com/brandonmuch/bbnaija-s10-information-governance) | Information governance case study from Big Brother Naija Season 10 — cross-border brand compliance and project governance across Nigeria, Uganda, Kenya, and Tanzania. Peak asset reach: 1.6 million users | Governance frameworks, Real-time monitoring |
-| [showmax-africa-brand-governance](https://github.com/brandonmuch/showmax-africa-brand-governance) | Cross-border brand governance for Showmax Africa — information security protocols, brand compliance across 12 countries, 1.1 billion impressions | Governance frameworks, Meta Business Suite |
-| [spacex-falcon9-landing-prediction](https://github.com/brandonmuch/spacex-falcon9-landing-prediction) | End-to-end ML pipeline with model governance documentation — classification, responsible AI disclosure, and model risk assessment. 94.4% accuracy | Python, Scikit-learn, SQL |
-| [design-team-billability-analysis](https://github.com/brandonmuch/design-team-billability-analysis) | Operational data governance pipeline on formally authorised, anonymised workforce data — data quality audit, ethical use boundaries, EDA, and classification | Python, Pandas, Random Forest |
+| [bbnaija-s10-information-governance](https://github.com/brandonmuch/bbnaija-s10-information-governance) | Information governance case study from Big Brother Naija Season 10. Cross-border brand compliance and project governance across Nigeria, Uganda, Kenya, and Tanzania. Peak asset reach: 1.6 million users | Governance frameworks, Real-time monitoring |
+| [showmax-africa-brand-governance](https://github.com/brandonmuch/showmax-africa-brand-governance) | Cross-border brand governance for Showmax Africa. Information security protocols, brand compliance across 12 countries, 1.1 billion impressions | Governance frameworks, Meta Business Suite |
+| [spacex-falcon9-landing-prediction](https://github.com/brandonmuch/spacex-falcon9-landing-prediction) | End-to-end ML pipeline with model governance documentation. Classification, responsible AI disclosure, and model risk assessment. 94.4% accuracy | Python, Scikit-learn, SQL |
+| [design-team-billability-analysis](https://github.com/brandonmuch/design-team-billability-analysis) | Operational data governance pipeline on formally authorised, anonymised workforce data. Data quality audit, ethical use boundaries, EDA, and classification | Python, Pandas, Random Forest |
 
 ---
 
