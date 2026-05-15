@@ -21,7 +21,7 @@ BCom Law (Cum Laude), Monash University South Africa.
 
 ## Skills
 
-**Regulatory and Compliance:** EU AI Act (Articles 10 and 11), GDPR, NIST AI RMF, ISO/IEC 42001, GRC Fundamentals
+**Regulatory and Compliance:** EU AI Act, GDPR, NIST AI RMF, ISO/IEC 42001, GRC Fundamentals
 
 **Data Science and AI:** Python (Scikit-learn, Pandas), SQL, Machine Learning
 
