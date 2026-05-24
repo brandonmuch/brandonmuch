@@ -1,70 +1,20 @@
 # Brandon Muchenje
-**AI Governance and Risk Specialist**
-
-brandonmuchenje01@gmail.com
-
----
-
-## About
-
-I have experience in Pan-African media and entertainment operations, leading cross-border
-data governance, information security, and stakeholder reporting across 23 African
-markets for MultiChoice and Showmax.
-
-Currently completing a Postgraduate Diploma in Risk Management at UNISA covering
-credit risk, operational risk, market risk, risk financing, and GRC. Active
-certifications that focus on the EU AI Act, NIST AI RMF, and ISO/IEC 42001.
-
-BCom Law (Cum Laude), Monash University South Africa.
+**AI Governance and GRC Analyst | AML and Compliance | BCom Law (Cum Laude)**  
+Johannesburg, SA · Open to relocation: Netherlands, Luxembourg, UK, Germany  
+[LinkedIn](https://linkedin.com/in/brandon-m-muchenje)
 
 ---
 
-## Skills
+## Portfolio Projects
 
-**Regulatory and Compliance:** EU AI Act, GDPR, NIST AI RMF, ISO/IEC 42001, GRC Fundamentals
-
-**Data Science and AI:** Python (Scikit-learn, Pandas), SQL, Machine Learning
-
-**Business Intelligence:** Power BI, Excel, Statistical Reporting, Trend Analysis
-
-**Domain:** Pan-African Cross-Border Strategy, Stakeholder Reporting, High-Stakes Confidentiality, UX Research
-
----
-
-## Projects
-
-| Repository | Description | Tools |
+| Project | Description | Stack |
 |---|---|---|
-| [bbnaija-s10-information-governance](https://github.com/brandonmuch/bbnaija-s10-information-governance) | Information governance case study from Big Brother Naija Season 10. Cross-border brand compliance and project governance across Nigeria, Uganda, Kenya, and Tanzania. Peak asset reach: 1.6 million users | Governance frameworks, Real-time monitoring |
-| [showmax-africa-brand-governance](https://github.com/brandonmuch/showmax-africa-brand-governance) | Cross-border brand governance for Showmax Africa. Information security protocols, brand compliance across 12 countries, 1.1 billion impressions | Governance frameworks, Meta Business Suite |
-| [spacex-falcon9-landing-prediction](https://github.com/brandonmuch/spacex-falcon9-landing-prediction) | End-to-end ML pipeline with model governance documentation. Classification, responsible AI disclosure, and model risk assessment. 94.4% accuracy | Python, Scikit-learn, SQL |
-| [design-team-billability-analysis](https://github.com/brandonmuch/design-team-billability-analysis) | Operational data governance pipeline on formally authorised, anonymised workforce data. Data quality audit, ethical use boundaries, EDA, and classification | Python, Pandas, Random Forest |
+| [EU AI Act Classifier](https://github.com/brandonmuch/eu-ai-act-classifier) | Classifies AI systems against EU Regulation 2024/1689 risk tiers | Python |
+| [Model Risk Register](https://github.com/brandonmuch/model-risk-register-ai-banking) | Risk register for 6 bank AI systems using 3LoD and NIST AI RMF | Excel |
+| [Fraud Detection Analysis](https://github.com/brandonmuch/fraud-detection-analysis) | Random Forest classifier with interactive dashboard and EU AI Act commentary | Python |
+| [Design Team Billability](https://github.com/brandonmuch/design-team-billability-analysis) | Real workplace data governance analysis identifying material operational risk | Python |
+| [SpaceX Falcon 9 Prediction](https://github.com/brandonmuch/spacex-falcon9-landing-prediction) | ML pipeline predicting Falcon 9 landing success. 94.4% accuracy | Python |
 
 ---
 
-## Education
-
-**Postgraduate Diploma in Risk Management** | University of South Africa (UNISA) | Expected 2027
-
-Credit Risk, Operational Risk, Market Risk, Risk Financing, GRC
-
-**Bachelor of Commerce in Law (Cum Laude)** | Monash University South Africa
-
----
-
-## Certifications
-
-- AI and the Rule of Law | University of Oxford and UNESCO | In progress
-- IAPP AIGP Complete Training: AI Governance Mastery | Packt | 2026
-- GRC Fundamentals: Governance, Risk and Compliance | Packt | 2026
-- GovStack | International Telecommunication Union | 2026
-- IBM Data Science Professional Certificate | IBM | 2025
-- Google Prompting Essentials | Google | 2025
-- Microsoft Power BI Data Analyst Professional Certificate | In Progress
-
----
-
-## Contact
-
-brandonmuchenje01@gmail.com
-[linkedin.com/in/brandon-m-muchenje](https://linkedin.com/in/brandon-m-muchenje)
+**Currently seeking** AML, KYC, GRC, and AI Governance analyst roles in Europe.
