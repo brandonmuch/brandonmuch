@@ -1,6 +1,5 @@
 # Brandon Muchenje
-**AI Governance and GRC Analyst | AML and Compliance | BCom Law (Cum Laude)**  
-Johannesburg, SA · Open to relocation: Netherlands, Luxembourg, UK, Germany  
+**I help businesses turn complex data into clear decisions and govern AI responsibly**   
 [LinkedIn](https://linkedin.com/in/brandon-m-muchenje)
 
 ---
