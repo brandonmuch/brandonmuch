@@ -14,7 +14,7 @@ Python (pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, Power BI, Excel
 Scikit-learn, Random Forest, Decision Trees, Logistic Regression, Feature Engineering
 
 **AI Governance and Risk**
-EU AI Act, NIST AI RMF, Model Risk Management, 3 Lines of Defence, Responsible AI, GRC Fundamentals
+EU AI Act, NIST AI RMF, Model Risk Management, Responsible AI, GRC Fundamentals
 
 ---
 
