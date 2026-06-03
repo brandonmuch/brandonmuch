@@ -34,4 +34,4 @@ EU AI Act, NIST AI RMF, Model Risk Management, 3 Lines of Defence, Responsible A
 
 ---
 
-**Currently seeking** Data Analyst roles in Europe.
+**View Projects Below** 
