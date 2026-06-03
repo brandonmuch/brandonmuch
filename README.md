@@ -1,19 +1,37 @@
 # Brandon Muchenje
-**I help businesses turn complex data into clear decisions and govern AI responsibly**   
+Data analyst with a background in law, design and AI governance. I work across the full data pipeline from cleaning and analysis to visualisation and business storytelling. Currently focused on analytics, compliance and responsible AI in European markets.
+
 [LinkedIn](https://linkedin.com/in/brandon-m-muchenje)
 
 ---
 
-## Portfolio Projects
+## Skills
 
-| Project | Description | Stack |
-|---|---|---|
-| [EU AI Act Classifier](https://github.com/brandonmuch/eu-ai-act-classifier) | Classifies AI systems against EU Regulation 2024/1689 risk tiers | Python |
-| [Model Risk Register](https://github.com/brandonmuch/model-risk-register-ai-banking) | Risk register for 6 bank AI systems using 3LoD and NIST AI RMF | Excel |
-| [Fraud Detection Analysis](https://github.com/brandonmuch/fraud-detection-analysis) | Random Forest classifier with interactive dashboard and EU AI Act commentary | Python |
-| [Design Team Billability](https://github.com/brandonmuch/design-team-billability-analysis) | Real workplace data governance analysis identifying material operational risk | Python |
-| [SpaceX Falcon 9 Prediction](https://github.com/brandonmuch/spacex-falcon9-landing-prediction) | ML pipeline predicting Falcon 9 landing success. 94.4% accuracy | Python |
+**Analytics and Visualisation**
+Python (pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL, Power BI, Excel
+
+**Machine Learning**
+Scikit-learn, Random Forest, Decision Trees, Logistic Regression, Feature Engineering
+
+**AI Governance and Risk**
+EU AI Act, NIST AI RMF, Model Risk Management, 3 Lines of Defence, Responsible AI, GRC Fundamentals
 
 ---
 
-**Currently seeking** AML, KYC, GRC, and AI Governance analyst roles in Europe.
+## Certifications
+
+**IBM Data Science Professional Certificate** (Coursera)
+- What is Data Science
+- Tools for Data Science
+- Data Science Methodology
+- Python for Data Science, AI and Development
+- Python Project for Data Science
+- Databases and SQL for Data Science with Python
+- Data Analysis with Python
+- Data Visualization with Python
+- Machine Learning with Python
+- Applied Data Science Capstone
+
+---
+
+**Currently seeking** Data Analyst roles in Europe.
