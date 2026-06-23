@@ -13,10 +13,13 @@ Data analyst with a background in law, design and AI governance. I work across t
 
 ## Skills
 
-**Analytics:** SQL (BigQuery), Python (Pandas/NumPy), Statistical Analysis, A/B Testing, Funnel Analysis
+**Analytics:** SQL (BigQuery), Python (Pandas/NumPy), Statistical Analysis, A/B Testing
+
 **BI & Reporting:** Power BI, Excel, Data Storytelling, Dashboard Design, Stakeholder Reporting
+
 **AI & Automation:** Make.com, Claude API, Trello Automations, Google Prompting, Generative AI Workflows
-**Product:** User Behaviour Modelling, Funnel Analysis, Conversion Optimisation, UI/UX Mapping, Figma, Framer
+
+**Product:** User Behaviour Modelling, Funnel Analysis, Conversion Optimisation, UI/UX Mapping
 
 ---
 
