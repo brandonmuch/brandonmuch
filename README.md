@@ -1,42 +1,33 @@
-# Brandon Muchenje
-Product Analyst with 4+ years of commercial experience bridging data analysis, product strategy, and digital 
-operations across 15 African markets. Contributed to campaigns generating 1.1 billion impressions for 
-Showmax Africa and Big Brother Naija Season 10. Combines hands-on proficiency in SQL (BigQuery), 
-Python, and Power BI with a background in Law, Risk Management, and AI Governance. Built end-to-end 
-analytics pipelines from raw data to stakeholder-ready recommendations. Uniquely positioned to bridge product, 
-compliance, and data workstreams at European technology and fintech companies.
-Data analyst with a background in law, design and AI governance. I work across the full data pipeline from cleaning and analysis to visualisation and business storytelling. Currently focused on analytics, compliance and responsible AI in European markets.
+# Hi, I'm Brandon
 
-[LinkedIn](https://linkedin.com/in/brandon-m-muchenje)
+**Analytics Engineer** | dbt, SQL, BigQuery, Snowflake, Python
 
----
+Building tested, documented data models, coming from 4+ years bridging data, product, and business strategy across 15+ African markets (Showmax Africa, MultiChoice, Big Brother Naija S10).
 
-## Skills
+dbt Fundamentals certified. Currently a Data Analyst Intern at AnalystLab Africa, and actively building out a personal data modelling and transformation portfolio in dbt.
 
-**Analytics:** SQL (BigQuery), Python (Pandas/NumPy), Statistical Analysis, A/B Testing
+Open to Analytics Engineer / Data Analyst roles in the EU, eligible for the Netherlands Highly Skilled Migrant visa.
 
-**BI & Reporting:** Power BI, Excel, Data Storytelling, Dashboard Design, Stakeholder Reporting
+## Tech Stack
+Python, SQL, dbt, BigQuery, Snowflake, Git, Power BI, Excel
 
-**AI & Automation:** Make.com, Claude API, Trello Automations, Google Prompting, Generative AI Workflows
+## Featured Projects
 
-**Product:** User Behaviour Modelling, Funnel Analysis, Conversion Optimisation, UI/UX Mapping
+**[SaaS Analytics Engineering](https://github.com/brandonmuch/saas-analytics-engineering)**
+dbt project on BigQuery modelling SaaS subscription data through staging, intermediate, and mart layers to calculate MRR, churn, and CLV, with automated tests and a scheduled deployment.
 
----
+**[E-commerce SQL Analysis](https://github.com/brandonmuch/ecommerce-sql-analysis)**
+BigQuery SQL analysis of a multi-market e-commerce dataset using window functions and joins to surface revenue trends and customer value.
+
+**[Cafe Revenue Analysis](https://github.com/brandonmuch/cafe-revenue-analysis)**
+Python analysis of 232 handwritten transaction records for a Harare cafe, uncovering operational risks and delivering 8 actionable recommendations.
+
+**[Streaming Analytics Dashboard](https://github.com/brandonmuch/spotify-power-bi-dashboard)**
+Power BI dashboard on a synthetic 22-market streaming dataset, surfacing revenue and growth trends.
 
 ## Certifications
+- dbt Fundamentals, dbt Labs
+- IBM Data Science Professional Certificate
 
-**IBM Data Science Professional Certificate** (Coursera)
-- What is Data Science
-- Tools for Data Science
-- Data Science Methodology
-- Python for Data Science, AI and Development
-- Python Project for Data Science
-- Databases and SQL for Data Science with Python
-- Data Analysis with Python
-- Data Visualization with Python
-- Machine Learning with Python
-- Applied Data Science Capstone
-
----
-
-**View Projects Below** 
+## Connect
+[LinkedIn](https://linkedin.com/in/brandon-m-muchenje)
