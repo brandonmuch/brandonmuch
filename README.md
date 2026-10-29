@@ -1,33 +1,12 @@
-# Hi, I'm Brandon
+### Technical Risk & Compliance Analyst
 
-**Analytics Engineer** | dbt, SQL, BigQuery, Snowflake, Python
+I bridge the gap between 2nd Line of Defence frameworks and data engineering. I do not just write risk registers; I build the automated pipelines to enforce them.
 
-Building tested, documented data models, coming from 4+ years bridging data, product, and business strategy across 15+ African markets (Showmax Africa, MultiChoice, Big Brother Naija S10).
+**Core Stack:** Python, SQL, dbt, PostgreSQL, Power BI
+**Frameworks:** DORA, EU AI Act, GDPR, ISO 27001, NIST AI RMF
 
-dbt Fundamentals certified. Currently a Data Analyst Intern at AnalystLab Africa, and actively building out a personal data modelling and transformation portfolio in dbt.
-
-Open to Analytics Engineer / Data Analyst roles in the EU, eligible for the Netherlands Highly Skilled Migrant visa.
-
-## Tech Stack
-Python, SQL, dbt, BigQuery, Snowflake, Git, Power BI, Excel
-
-## Featured Projects
-
-**[SaaS Analytics Engineering](https://github.com/brandonmuch/saas-analytics-engineering)**
-dbt project on BigQuery modelling SaaS subscription data through staging, intermediate, and mart layers to calculate MRR, churn, and CLV, with automated tests and a scheduled deployment.
-
-**[E-commerce SQL Analysis](https://github.com/brandonmuch/ecommerce-sql-analysis)**
-BigQuery SQL analysis of a multi-market e-commerce dataset using window functions and joins to surface revenue trends and customer value.
-
-**[Cafe Revenue Analysis](https://github.com/brandonmuch/cafe-revenue-analysis)**
-Python analysis of 232 handwritten transaction records for a Harare cafe, uncovering operational risks and delivering 8 actionable recommendations.
-
-**[Streaming Analytics Dashboard](https://github.com/brandonmuch/spotify-power-bi-dashboard)**
-Power BI dashboard on a synthetic 22-market streaming dataset, surfacing revenue and growth trends.
-
-## Certifications
-- dbt Fundamentals, dbt Labs
-- IBM Data Science Professional Certificate
-
-## Connect
-[LinkedIn](https://linkedin.com/in/brandon-m-muchenje)
+#### Featured Projects:
+*   **[DORA Register of Information Pipeline](https://github.com/brandonmuch/dora-register-factory):** Automated data quality controls for EU regulatory reporting.
+*   **[Model Risk & EU AI Act Register](https://github.com/brandonmuch/model-risk-ai-act-register):** Lifecycle compliance pipeline enforcing AI validation gates.
+*   **[GRC Risk Frameworks](https://github.com/brandonmuch/grc-risk-frameworks):** Board level Enterprise Risk Register and ISO 27001 Gap Analysis.
+*   **[Vendor Risk & Treatment](https://github.com/brandonmuch/vendor-risk-treatment):** Risk financing analysis exposing "Flawed Transfers" in vendor SLAs.
