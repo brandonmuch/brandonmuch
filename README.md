@@ -3,6 +3,7 @@
 I bridge the gap between 2nd Line of Defence frameworks and data engineering. I do not just write risk registers; I build the automated pipelines to enforce them.
 
 **Core Stack:** Python, SQL, dbt, PostgreSQL, Power BI
+
 **Frameworks:** DORA, EU AI Act, GDPR, ISO 27001, NIST AI RMF
 
 #### Featured Projects:
